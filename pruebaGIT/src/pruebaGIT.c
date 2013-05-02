@@ -13,6 +13,7 @@
 
 int main(void) {
 	puts("!!!Hello World!!!");
-	puts("Esto es lo modificado en el repo remoto");/* prints !!!Hello World!!! */
+	puts("Esto es lo modificado en el repo remoto");
+	puts("Vuelvo a modificar en remoto");/* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
